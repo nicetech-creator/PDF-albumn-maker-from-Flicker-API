@@ -1,0 +1,24 @@
+Flickr2PDF
+
+Usuage Instructions:
+1. Install the necessary libraries:
+    pip install flickr_api
+    pip install bs4
+    pip install weasyprint
+    pip install jinja2
+
+2 Run the script by entering the url
+    > python flickr2pdf.py https://www.flickr.com/photos/125925288@N02/albums/72157692656165215
+
+3. Wait for it to download the photos and create the PDF
+
+Alternate way of using it from a web browser:
+
+1. Go to:
+https://colab.research.google.com/drive/1hApI9Q-_p0CM4rMui0lz1qRhsdivbHYy
+
+2. Click "Open in Playground"
+
+3. Run each of the code cells. Enter the URL in the Create PDF section
+
+4. Download
